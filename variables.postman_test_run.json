@@ -1,0 +1,43 @@
+{
+	"id": "813d6be2-739e-458f-92be-087f286c7767",
+	"name": "variables",
+	"timestamp": "2021-07-31T15:49:36.670Z",
+	"collection_id": "16472094-5ee82d76-4822-4234-8549-babc25933d79",
+	"folder_id": 0,
+	"environment_id": "6e3908b7-2e1d-48f6-b86a-0eb0cb7c7e2e",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "f798fb5d-d348-4348-979b-b770994eb3ec",
+			"name": "New Request",
+			"time": 130,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				147,
+				135,
+				130
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 412,
+	"collection": {
+		"requests": [
+			{
+				"id": "f798fb5d-d348-4348-979b-b770994eb3ec",
+				"method": "POST"
+			}
+		]
+	}
+}
