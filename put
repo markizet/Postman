@@ -1,0 +1,15 @@
+https://reqres.in/api/users/2/api/users/2
+
+{
+    "name": "morpheus",
+    "job": "zion resident"
+}
+
+Response
+200
+
+{
+    "name": "morpheus",
+    "job": "zion resident",
+    "updatedAt": "2021-07-31T13:46:28.739Z"
+}
