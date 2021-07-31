@@ -1,0 +1,24 @@
+https://reqres.in/api/register
+
+{
+    "email": "{{email}}",
+    "password": "{{paswword}}"
+}
+
+-- запускаем коллекцию с помощью data.json файла --
+
+[
+{
+	"email":"1@test.com",
+	"password":"123"                         400 Bad request
+},
+
+{
+	"email":"2@test.com",
+	"password":"123444"                      400 Bad request
+},
+{
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"                   200 OK
+}
+]
