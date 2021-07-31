@@ -1,0 +1,12 @@
+Request
+/api/users
+
+Response
+201
+
+{
+    "name": "morpheus",
+    "job": "leader",
+    "id": "63",
+    "createdAt": "2021-07-31T13:44:40.027Z"
+}
