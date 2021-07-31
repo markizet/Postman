@@ -1,8 +1,14 @@
-Request
-/api/users
+https://reqres.in/api/users
+
+
+{
+    "name": "morpheus",
+    "job": "leader"
+}
 
 Response
 201
+
 
 {
     "name": "morpheus",
